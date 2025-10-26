@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-edgestore-cloudflare-73c414e6-a14f-4103-a9c0-733ed7b4d726",
+	"name": "cfstoredemo",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
